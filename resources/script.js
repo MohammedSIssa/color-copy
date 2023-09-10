@@ -207,15 +207,11 @@ color30.addEventListener("click", function(){
    navigator.clipboard.writeText(color30Value)
    console.log(color30Value)})
 
-
-
 let color31 = document.querySelector(".col-31")
 color31.addEventListener("click", function(){
    let color31Value = color31.querySelector(".color-31").textContent
    navigator.clipboard.writeText(color31Value)
    console.log(color31Value)})
-
-
 
 let color32 = document.querySelector(".col-32")
 color32.addEventListener("click", function(){
@@ -223,15 +219,11 @@ color32.addEventListener("click", function(){
    navigator.clipboard.writeText(color32Value)
    console.log(color32Value)})
 
-
-
 let color33 = document.querySelector(".col-33")
 color33.addEventListener("click", function(){
    let color33Value = color33.querySelector(".color-33").textContent
    navigator.clipboard.writeText(color33Value)
    console.log(color33Value)})
-
-
 
 let color34 = document.querySelector(".col-34")
 color34.addEventListener("click", function(){
@@ -239,15 +231,11 @@ color34.addEventListener("click", function(){
    navigator.clipboard.writeText(color34Value)
    console.log(color34Value)})
 
-
-
 let color35 = document.querySelector(".col-35")
 color35.addEventListener("click", function(){
    let color35Value = color35.querySelector(".color-35").textContent
    navigator.clipboard.writeText(color35Value)
    console.log(color35Value)})
-
-
 
 let color36 = document.querySelector(".col-36")
 color36.addEventListener("click", function(){
@@ -255,15 +243,11 @@ color36.addEventListener("click", function(){
    navigator.clipboard.writeText(color36Value)
    console.log(color36Value)})
 
-
-
 let color37 = document.querySelector(".col-37")
 color37.addEventListener("click", function(){
    let color37Value = color37.querySelector(".color-37").textContent
    navigator.clipboard.writeText(color37Value)
    console.log(color37Value)})
-
-
 
 let color38 = document.querySelector(".col-38")
 color38.addEventListener("click", function(){
@@ -271,23 +255,17 @@ color38.addEventListener("click", function(){
    navigator.clipboard.writeText(color38Value)
    console.log(color38Value)})
 
-
-
 let color39 = document.querySelector(".col-39")
 color39.addEventListener("click", function(){
    let color39Value = color39.querySelector(".color-39").textContent
    navigator.clipboard.writeText(color39Value)
    console.log(color39Value)})
 
-
-
 let color40 = document.querySelector(".col-40")
 color40.addEventListener("click", function(){
    let color40Value = color40.querySelector(".color-40").textContent
    navigator.clipboard.writeText(color40Value)
    console.log(color40Value)})
-
-
 
 let color41 = document.querySelector(".col-41")
 color41.addEventListener("click", function(){
