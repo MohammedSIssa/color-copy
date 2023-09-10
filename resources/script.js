@@ -34,7 +34,7 @@ color5.addEventListener("click",function(){
 })
 
 let color6 = document.querySelector('.col-6')
-color2.addEventListener("click",function(){
+color6.addEventListener("click",function(){
     let color6Value = color6.querySelector('.color-6').textContent
     navigator.clipboard.writeText(color6Value)
    console.log(color6Value)
