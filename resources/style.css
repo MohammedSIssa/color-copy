@@ -14,10 +14,12 @@
 }
 
 .colors-container{
-    width: 95%;
+    width: 100%;
     height: 100%;
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
 .color{
@@ -26,7 +28,7 @@
     height: 200px;
     margin: 10px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     font-family: 'Muli','Courier New', Courier, monospace;
     font-size: 20px;
